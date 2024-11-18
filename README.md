@@ -17,10 +17,5 @@ El sitio web está estructurado de la siguiente manera:
 - **Sección de contacto:** Un formulario para que los usuarios puedan enviarnos consultas o mensajes.
 - **Pie de página:** Contiene enlaces a nuestras redes sociales y un aviso de derechos reservados.
 
-## Instalación
 
-Para ejecutar este proyecto localmente, sigue estos pasos:
 
-1. Clona este repositorio en tu máquina local:
-  
-   git clone https://github.com/Nespatata/Pagina-web.git
